@@ -1,71 +1,71 @@
 criaCartao(
-    'Cachorrinhos',
+    'Agrinho',
     'O que é agro forte?',
     'Produtivo, competitivo, uso responsável de recursos, futuro seguro.'
 )
 
 criaCartao(
-    'Cachorrinhos',
+    'Agrinho',
     'Qual o papel de sensores e drones no campo?',
     'Eficiência + preservação de solo, água, biodiversidade.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça é famosa por ser salva-vidas nas montanhas suíças?',
-    'O São Bernardo.'
+    'Agrinho',
+    ' Práticas para produtividade sustentável?',
+    'Plantio direto, rotação, integração, adubação orgânica, manejo pragas.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é conhecido como “o gigante gentil”?',
-    'O Dogue Alemão.'
+    'Agrinho',
+    'Como rotação e plantio direto ajudam?',
+    'Reduz erosão, aumenta fertilidade, retém água, menos insumos.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça foi criada para caçar ratos em minas e fábricas?',
-    'O Terrier.'
+    'Agrinho',
+    ' Agricultura de precisão → impacto ambiental?',
+    ' Insumos certos, onde necessário → menos desperdício, menor impacto.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual era a raça preferida da Rainha Elizabeth II?',
-    'O Corgi.'
+    'Agrinho',
+    'Papel de sensores e drones?',
+    ' Monitoramento, diagnóstico rápido, decisões sustentáveis.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça japonesa é símbolo de lealdade e inspirou o filme “Hachiko”?',
-    'O Akita Inu.'
+    'Agrinho',
+    'Preservação de água e clima?',
+    ' Irrigação eficiente, matas ciliares, plantio direto, recuperação áreas, reduzir desmatamento.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é famoso por suas dobras na pele e rosto enrugado?',
-    'O Shar Pei.'
+    'Agrinho',
+    'Reflorestamento e áreas nativas → importância?',
+    ' Biodiversidade, proteção de nascentes, captura carbono, equilíbrio ecológico'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça é conhecida por ter a língua azulada?',
-    'O Chow Chow.'
+    'Agrinho',
+    'Agricultura sustentável → empregos e renda?',
+    'Empregos, tecnologia, certificação, renda rural, economia local.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça tem fama de ser “cão de guarda brasileiro”?',
-    'O Fila Brasileiro.'
+    'Agrinho',
+    'Importância da certificação sustentável?',
+    'Credibilidade, mercados exigentes, práticas ambientais e sociais.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é usado como guia para pessoas cegas em muitos países?',
-    'O Labrador Retriever..'
+    'Agrinho',
+    'Principais desafios do agro sustentável?',
+    'Custos, capacitação, desmatamento ilegal, mudanças climáticas.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual é a raça com olfato mais poderoso, usada em resgates e farejamentos?',
-    'O Bloodhound.'
+    'Agrinho',
+    'Medidas políticas e educacionais?',
+    'Pesquisa, extensão, educação ambiental, incentivos, fiscalização.'
 )
